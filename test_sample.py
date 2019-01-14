@@ -20,3 +20,6 @@ def test_area():
 
 def test_area2():
     assert l.area_rect(34,10) == 340
+
+def test_fail():
+    assert l.area_rect(3,4) == 14
