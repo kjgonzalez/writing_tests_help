@@ -8,8 +8,6 @@ The following will perform one test for each defined function. should any of the
 '''
 
 import unittest
-import sys
-# sys.path.append('..')
 import modulelib as m
 
 # # basic example, without custom "init" method

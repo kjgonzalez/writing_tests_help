@@ -1,5 +1,7 @@
 '''
 secondary file to run another set of tests
+NOTE: you may name a file without using "test_" at the beginning, but then you must make sure the
+    test will be found when new tests are being discovered
 '''
 
 import unittest
